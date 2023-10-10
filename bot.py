@@ -27,4 +27,5 @@ def calculate_age(message):
         bot.reply_to(message, "Formato de data inválido. Por favor, use o formato DD/MM/AAAA.")
 
 
-bot.polling()
+# Executar o bot
+bot.infinity_polling(skip_pending=True)
