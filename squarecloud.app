@@ -1,5 +1,5 @@
 DISPLAY_NAME=Bot-idade
 DESCRIPTION=Um bot que calcula idade.
-MAIN=app.py
+MAIN=bot.py
 MEMORY=128
 VERSION=recommended
